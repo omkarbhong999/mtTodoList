@@ -1,7 +1,11 @@
 # 📋 React TodoList App
 
 A simple and interactive **Todo List** application built with **React.js**.  
-This project demonstrates the use of **functional components, props, state management (useState), event handling, and component reusability** in React.  
+This project demonstrates the use of **functional components, props, state management (useState), event handling, and component reusability** in React.
+
+[Live link ](https://mytodolistdev.netlify.app/)
+
+
 
 ---
 
@@ -14,10 +18,8 @@ This project demonstrates the use of **functional components, props, state manag
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your app UI here if possible)
 
----
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, JSX  
@@ -44,11 +46,11 @@ This project demonstrates the use of **functional components, props, state manag
 ┣ 📜 README.md
 ┗ 📜 .gitignore
 
----
 
 
 
-## ⚙️ Installation & Setup
+
+⚙️ Installation & Setup
 ```bash
 
 1. Clone the repository  
