@@ -27,3 +27,56 @@ This project demonstrates the use of **functional components, props, state manag
 ---
 
 ## 📂 Project Structure
+
+📦 react-todolist
+┣ 📂 src
+┃ ┣ 📜 App.js
+┃ ┣ 📜 AddTodo.js
+┃ ┣ 📜 Todos.js
+┃ ┣ 📜 TodoItem.js
+┃ ┣ 📜 Header.js
+┃ ┣ 📜 Footer.js
+┃ ┣ 📜 App.css
+┃ ┗ 📜 index.js
+┣ 📜 package.json
+┣ 📜 README.md
+┗ 📜 .gitignore
+
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository  
+```bash
+git clone https://github.com/your-username/react-todolist.git
+cd react-todolist
+
+npm install
+
+npm start
+
+npm run build
+
+📖 Usage
+
+Open the app in your browser.
+
+Add todos by entering a title and description.
+
+Delete todos by clicking the Delete button.
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork this repo
+
+Create your feature branch (git checkout -b feature-name)
+
+Commit changes (git commit -m 'Add feature')
+
+Push branch (git push origin feature-name)
+
+Create a Pull Request
+
