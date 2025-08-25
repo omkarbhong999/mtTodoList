@@ -28,6 +28,8 @@ This project demonstrates the use of **functional components, props, state manag
 
 ## 📂 Project Structure
 
+```bash
+
 📦 react-todolist
 ┣ 📂 src
 ┃ ┣ 📜 App.js
@@ -42,13 +44,15 @@ This project demonstrates the use of **functional components, props, state manag
 ┣ 📜 README.md
 ┗ 📜 .gitignore
 
-
 ---
 
+
+
 ## ⚙️ Installation & Setup
+```bash
 
 1. Clone the repository  
-```bash
+
 git clone https://github.com/your-username/react-todolist.git
 cd react-todolist
 
@@ -58,7 +62,11 @@ npm start
 
 npm run build
 
-📖 Usage
+```
+
+
+
+ ## 📖 Usage
 
 Open the app in your browser.
 
@@ -66,7 +74,9 @@ Add todos by entering a title and description.
 
 Delete todos by clicking the Delete button.
 
-🤝 Contributing
+
+
+ ## 🤝 Contributing
 
 Contributions are welcome!
 
